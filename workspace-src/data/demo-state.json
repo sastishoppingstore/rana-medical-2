@@ -1,0 +1,179 @@
+{
+  "appointments": [],
+  "doctors": [
+    {
+      "name": "Dr. Ayesha Rahman",
+      "specialty": "Medicine",
+      "qual": "MBBS, FCPS (sample)",
+      "experience": "12 years · illustrative",
+      "fee": 2500,
+      "days": "Mon, Wed, Fri",
+      "time": "10:00 AM – 1:00 PM",
+      "emoji": "👩‍⚕️",
+      "sample": true
+    },
+    {
+      "name": "Dr. Bilal Ahmed",
+      "specialty": "Surgery",
+      "qual": "MBBS, MS (sample)",
+      "experience": "15 years · illustrative",
+      "fee": 3000,
+      "days": "Tue, Thu, Sat",
+      "time": "4:00 PM – 7:00 PM",
+      "emoji": "👨‍⚕️",
+      "sample": true
+    },
+    {
+      "name": "Dr. Sana Khalid",
+      "specialty": "Gynecology",
+      "qual": "MBBS, FCPS (sample)",
+      "experience": "10 years · illustrative",
+      "fee": 2500,
+      "days": "Mon, Tue, Thu",
+      "time": "11:00 AM – 2:00 PM",
+      "emoji": "👩‍⚕️",
+      "sample": true
+    },
+    {
+      "name": "Dr. Hamza Noor",
+      "specialty": "Child Specialist",
+      "qual": "MBBS, MCPS (sample)",
+      "experience": "8 years · illustrative",
+      "fee": 2000,
+      "days": "Mon – Fri",
+      "time": "5:00 PM – 8:00 PM",
+      "emoji": "👨‍⚕️",
+      "sample": true
+    },
+    {
+      "name": "Dr. Farah Malik",
+      "specialty": "Cardiology",
+      "qual": "MBBS, FCPS (sample)",
+      "experience": "11 years · illustrative",
+      "fee": 3500,
+      "days": "Wed, Fri, Sat",
+      "time": "3:00 PM – 6:00 PM",
+      "emoji": "👩‍⚕️",
+      "sample": true
+    },
+    {
+      "name": "Dr. Omar Siddiqui",
+      "specialty": "Orthopedics",
+      "qual": "MBBS, MS (sample)",
+      "experience": "9 years · illustrative",
+      "fee": 2800,
+      "days": "Tue, Thu",
+      "time": "10:00 AM – 1:00 PM",
+      "emoji": "👨‍⚕️",
+      "sample": true
+    }
+  ],
+  "audit": [],
+  "updatedAt": "2026-11-25T10:58:43.075Z",
+  "patients": [],
+  "admissions": [],
+  "beds": [
+    {
+      "id": "BED-G01",
+      "bedId": "G-01",
+      "ward": "General Ward",
+      "dailyRate": 2500,
+      "status": "Available",
+      "sample": true
+    },
+    {
+      "id": "BED-G02",
+      "bedId": "G-02",
+      "ward": "General Ward",
+      "dailyRate": 2500,
+      "status": "Available",
+      "sample": true
+    },
+    {
+      "id": "BED-SP01",
+      "bedId": "SP-01",
+      "ward": "Semi-Private",
+      "dailyRate": 5000,
+      "status": "Available",
+      "sample": true
+    },
+    {
+      "id": "BED-P01",
+      "bedId": "P-01",
+      "ward": "Private",
+      "dailyRate": 9000,
+      "status": "Available",
+      "sample": true
+    },
+    {
+      "id": "BED-ICU01",
+      "bedId": "ICU-01",
+      "ward": "ICU",
+      "dailyRate": 15000,
+      "status": "Available",
+      "sample": true
+    }
+  ],
+  "prescriptions": [],
+  "labOrders": [],
+  "labResults": [],
+  "labReports": [],
+  "medicines": [
+    {
+      "id": "MED-DEMO-01",
+      "name": "Paracetamol",
+      "brand": "Sample brand",
+      "category": "Analgesic",
+      "batch": "DEMO-PAR-01",
+      "expiry": "2027-12-31",
+      "purchasePrice": 18,
+      "salePrice": 25,
+      "stock": 120,
+      "reorderLevel": 20,
+      "sample": true
+    },
+    {
+      "id": "MED-DEMO-02",
+      "name": "Amoxicillin",
+      "brand": "Sample brand",
+      "category": "Antibiotic",
+      "batch": "DEMO-AMX-01",
+      "expiry": "2027-08-31",
+      "purchasePrice": 32,
+      "salePrice": 45,
+      "stock": 38,
+      "reorderLevel": 15,
+      "sample": true
+    },
+    {
+      "id": "MED-DEMO-03",
+      "name": "Oral Rehydration Salts",
+      "brand": "Sample brand",
+      "category": "Electrolyte",
+      "batch": "DEMO-ORS-01",
+      "expiry": "2028-03-31",
+      "purchasePrice": 12,
+      "salePrice": 20,
+      "stock": 60,
+      "reorderLevel": 18,
+      "sample": true
+    }
+  ],
+  "pharmacySales": [],
+  "invoices": [],
+  "payments": [],
+  "expenses": [],
+  "employees": [],
+  "payroll": [],
+  "services": [],
+  "packages": [],
+  "blogPosts": [],
+  "inquiries": [],
+  "nursingNotes": [],
+  "surgeries": [],
+  "ambulances": [],
+  "suppliers": [],
+  "attendance": [],
+  "notifications": [],
+  "faqs": []
+}
